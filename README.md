@@ -1,4 +1,4 @@
-# TAREFAS LOCALMENTE <img src="https://skillicons.dev/icons?i=flutter,dart,github" alt="Flutter, Dart & GitHub Icons" style="vertical-align: middle; height: 35px;"/>
+# TAREFAS LOCALMENTE <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter & Dart Icons" style="vertical-align: middle; height: 35px;"/>
 
 ## 1. Visão Geral
 
